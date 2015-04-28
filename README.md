@@ -10,10 +10,10 @@ Dans le cadre d'un Legal Hackathon Open Law mené sur mars et avril 2015, afin d
 <br>-Principaux services numériques utilisés par les étudiants: https://github.com/M2DroitNumerique/audit_CGU<br>
 <br>-Services numériques aux juristes ( DIU informatique et droit): https://github.com/DIUIDEI/DIU-Droit-et-Informatique<br>
 
-Après analyse de ces données, j'ai fait évoluer mon projet de référentiel. Ensuite j'ai procédé à un alignemetn du référentiel avec celui développé par Hugo Roy et la communauté TOS;DR sur les CGU américaines: 
+Après analyse des données collectées et sur la base de certaines propositions des étudiants, j'ai procédé à une évolution  du projet de référentiel. Puis j'ai réalisé un alignement du référentiel avec celui développé par Hugo Roy et la communauté TOS;DR sur les CGU américaines: 
 https://tosdr.org/topics.html#topics
 
-Cet alignement m'a permis à nouveau d'enrichir le référentiel et d'affiner les variables proposées. C'est donc une version 0.1 que je partage ici pour enrichissement collaboratif, contribuer au projet https://tosdr.org/, aux travaux de la fondation Mozilla sur les Privacy Icons https://wiki.mozilla.org/Privacy_Icons et au projet Customer Commons http://customercommons.org/2014/10/27/customer-commons-and-user-submitted-terms/ 
+Cet alignement m'a permis à nouveau d'enrichir le référentiel et d'affiner les variables proposées. C'est donc le résultat de ce travail collectif que je partage ici pour enrichissement collaboratif, et si possible, contribuer au projet https://tosdr.org/, aux travaux de la fondation Mozilla sur les Privacy Icons https://wiki.mozilla.org/Privacy_Icons et au projet Customer Commons http://customercommons.org/2014/10/27/customer-commons-and-user-submitted-terms/ 
 
 <br>Dans le cadre de mes travaux de recherche, ce livrable  est une première étape au développement d'un référentiel de CGR Design your privacy, qui constitue l'une des réponses au défi juridique soulevé par http://mesinfos.fing.org/ et le développment d'un écosystème de Self Data.<br> 
 
